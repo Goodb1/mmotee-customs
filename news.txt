@@ -1,5 +1,1 @@
-|Test Announcement|
-Hello!
-123456789
-@,.-àùè+'ì
-test3
+|Test Announcement 2|
