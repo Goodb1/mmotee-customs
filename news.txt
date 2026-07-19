@@ -1,3 +1,4 @@
-|MMOTee 2.0 Released|
-MMOTee 2.0's Client has been released with these highlights:
-- test
+|MMOTee 2.0 Updated|
+MMOTee 2.0 has been updated with these highlights:
+• [Client]
+• [Server]
