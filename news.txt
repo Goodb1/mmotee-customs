@@ -1,2 +1,3 @@
-|MMOTee 2.0 Client Opening|
-test1
+|MMOTee 2.0 Released|
+MMOTee 2.0's Client has been released with these highlights:
+- test
